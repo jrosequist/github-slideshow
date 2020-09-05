@@ -2,5 +2,5 @@
 layout: slied
 title: "Welcome to our second slide!"
 ---
-Joanne Rosequist
+*something new*
 Use the left arrow to go back!!
